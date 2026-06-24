@@ -1,5 +1,6 @@
 # 📊 Superstore Sales Dashboard (MIS Project)
 
+
 This is an MIS-based Excel dashboard created using PivotTables, charts, and slicers to analyze sales performance and support business decision-making.
 
 ## 🔹 MIS Features:
